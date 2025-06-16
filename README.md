@@ -1,2 +1,2 @@
 # HINDUSTAN-HACK
-🔥 New Colour Trading Hack • Win,🚀
+https://telegram.me/Wptrickbot
