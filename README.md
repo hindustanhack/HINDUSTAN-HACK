@@ -23,3 +23,9 @@ git clone https://github.com/hindustanhack/HINDUSTAN-HACK
 cd HINDUSTAN-HACK
 pip install -r requirements.txt
 python hindustanosint.py
+
+🛑 Disclaimer: This tool is intended for basic code protection and educational purposes. Advanced reverse engineers can still decode client-side code. Do not rely on this for highly sensitive backend credentials.
+
+Made with ❤️ By :- @Hindustanhack
+
+```
