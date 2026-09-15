@@ -23,9 +23,8 @@ git clone https://github.com/hindustanhack/HINDUSTAN-HACK
 cd HINDUSTAN-HACK
 pip install -r requirements.txt
 python hindustanosint.py
+```
 
-🛑 Disclaimer: This tool is intended for basic code protection and educational purposes. Advanced reverse engineers can still decode client-side code. Do not rely on this for highly sensitive backend credentials.
+🛑 **Disclaimer:** This tool is intended for educational and research purposes only. It performs OSINT (Open Source Intelligence) lookups on publicly available data. The developer is not responsible for any misuse, illegal activity, or damage caused by this tool. Do not use it for unauthorized surveillance, stalking, or any activity that violates privacy laws. Use responsibly and only on numbers you have permission to query.
 
 Made with ❤️ By :- @Hindustanhack
-
-```
