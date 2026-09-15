@@ -14,17 +14,16 @@ Make sure you have Python 3 and Git installed on your system or Termux[span_6](s
 
 ### 📥 Installation & Deployment
 
-Open Termux or your terminal and execute the following commands:
+# Click on copy bar for copy All these commands 👉
 
-```bash
-pkg update && pkg upgrade -y
-pkg install python git -y
+pkg update && upgrade
+termux-setup-storage
+pkg install python
+pkg install git
 git clone https://github.com/hindustanhack/HINDUSTAN-HACK
 cd HINDUSTAN-HACK
 pip install -r requirements.txt
-python3 hindusosint.py
-```
-
+python hindustanosint.py
 
 🛑 Disclaimer
 This tool is intended for basic code protection and educational purposes. Advanced reverse engineers can still decode client-side code. Do not rely on this for highly sensitive backend credentials.
