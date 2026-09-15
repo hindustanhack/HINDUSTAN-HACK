@@ -19,7 +19,7 @@ Open Termux or your terminal and execute the following commands:
 ```bash
 pkg update && pkg upgrade -y
 pkg install python git -y
-git clone [https://github.com/hindustanhack/HINDUSTAN-HACK](https://github.com/hindustanhack/HINDUSTAN-HACK)
+git clone https://github.com/hindustanhack/HINDUSTAN-HACK
 cd HINDUSTAN-HACK
 pip install -r requirements.txt
 python3 hindusosint.py
