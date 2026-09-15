@@ -1,2 +1,152 @@
-# Python obfuscation by Hindustanhack
-_ = lambda __ : __import__('zlib').decompress(__import__('base64').b64decode(__[::-1]));exec((_)(b'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'))
+#!/usr/bin/env python3
+# Nub To Info — HINDUSTAN Ultimate Edition
+# Owner: @Rolexseller1 | Channel: @Hindustanhack
+
+import requests
+import os
+import time
+import sys
+from datetime import datetime
+
+from rich.console import Console
+from rich.panel import Panel
+from rich.text import Text
+from rich.box import DOUBLE, ROUNDED
+from rich.align import Align
+from rich.table import Table
+
+try:
+    import pyfiglet
+except ImportError:
+    pyfiglet = None
+
+API_URL = "https://tfqdeadlo-1-78bapi.hf.space/search"
+
+HEADERS = {
+    "User-Agent": "Mozilla/5.0 (Linux; Android 10)",
+    "Accept": "application/json",
+}
+
+console = Console()
+
+# ============================================================
+# BANNER
+# ============================================================
+def display_banner():
+    try:
+        banner_text = pyfiglet.figlet_format("HINDUSTAN", font="big")
+    except:
+        banner_text = "=== HINDUSTAN ==="
+
+    colored_banner = Text(banner_text, style="bold red")
+
+    console.print(Panel(
+        Align.center(colored_banner),
+        box=DOUBLE,
+        border_style="red",
+        title="[bold white]🔥 ULTIMATE NUMBER TO INFO v2.0 🔥[/bold white]",
+        subtitle="[bold yellow]⚡ Developer: @Rolexconfigyt | Channel: @Hindustanhack ⚡[/bold yellow]"
+    ))
+
+# ============================================================
+# API CALL
+# ============================================================
+def lookup_number(number):
+    try:
+        params = {"mobile": number}
+        r = requests.get(API_URL, headers=HEADERS, params=params, timeout=20)
+        if r.status_code == 200:
+            return r.json()
+        return {"status": "error", "msg": f"HTTP {r.status_code}"}
+    except Exception as e:
+        return {"status": "error", "msg": str(e)}
+
+# ============================================================
+# PRINT INFO
+# ============================================================
+def print_info(num, data):
+    console.print()
+    console.print(Panel(
+        f"[bold cyan]🔍 QUERY :[/bold cyan] [bold white]{num}[/bold white]",
+        box=ROUNDED,
+        border_style="cyan",
+        title="[bold yellow] Searching... [/bold yellow]"
+    ))
+
+    if data.get("status") != "success":
+        console.print(Panel(
+            f"[bold red]❌ Error:[/bold red] {data.get('msg', 'Unknown error')}",
+            border_style="red"
+        ))
+        return
+
+    rec = data.get("data", {})
+    if not rec:
+        console.print(Panel(
+            "[bold red]❌ No record found.[/bold red]",
+            border_style="red"
+        ))
+        return
+
+    console.print(f"[bold green]📊 Total Records :[/bold green] [bold white]1[/bold white]")
+
+    table = Table(show_header=False, box=ROUNDED, border_style="green", title=f"[bold yellow]📄 Result #1[/bold yellow]")
+    table.add_column("Field", style="bold cyan", width=22)
+    table.add_column("Value", style="bold white")
+
+    table.add_row("1 📱 Registered Mobile", str(rec.get("mobile", "N/A")))
+    table.add_row("2 👤 Full Name",         str(rec.get("name", "N/A")))
+    table.add_row("3 🔒 Aadhaar Number",    str(rec.get("id", "N/A")))
+    table.add_row("4 ✉  Registered Email",  str(rec.get("email", "N/A") or "N/A"))
+    table.add_row("5 👔 Father/Guardian",   str(rec.get("fname", "N/A")))
+    table.add_row("6 ☎  Alternate Number",  str(rec.get("alt", "N/A")))
+    table.add_row("7 📡 Telecom Circle",    str(rec.get("circle", "N/A")))
+    table.add_row("8 📍 Address",           str(rec.get("address", "N/A")))
+    table.add_row("9 🆔 Reference ID",      f"REF-{num[-4:]}-01")
+
+    console.print(table)
+
+    console.print(Panel(
+        "[bold magenta]👨‍💻 Developer :[/bold magenta] [bold white]ROLEX[/bold white]\n"
+        "[bold magenta]💎 Credits   :[/bold magenta] [bold white]HINDUSTAN HACK[/bold white]\n"
+        f"[dim]🕒 {datetime.now().strftime('%d-%m-%Y %H:%M:%S')}[/dim]",
+        box=ROUNDED,
+        border_style="magenta"
+    ))
+
+# ============================================================
+# y/n LOOP
+# ============================================================
+def ask_continue():
+    while True:
+        ch = console.input("\n[bold cyan]🔁 Aur check kare? (y/n) :[/bold cyan] ").strip().lower()
+        if ch in ("y", "yes"):
+            return True
+        elif ch in ("n", "no"):
+            return False
+        console.print("[bold red]❌ Sirf y ya n daalo![/bold red]")
+
+# ============================================================
+# MAIN
+# ============================================================
+def main():
+    os.system("clear")
+    display_banner()
+    while True:
+        raw = console.input("[bold green]🔗 Number daalo :[/bold green] ").strip()
+        if not raw:
+            console.print("[bold red]❌ Koi number nahi diya.[/bold red]")
+        else:
+            numbers = [n.strip() for n in raw.split(",") if n.strip()]
+            console.print(f"\n[bold cyan]⚡ {len(numbers)} number check ho rahe...[/bold cyan]")
+            time.sleep(0.3)
+            for num in numbers:
+                data = lookup_number(num)
+                print_info(num, data)
+
+        if not ask_continue():
+            console.print("\n[bold green]👋 Bye — HINDUSTAN HACK 🔥[/bold green]\n")
+            sys.exit(0)
+
+if __name__ == "__main__":
+    main()
