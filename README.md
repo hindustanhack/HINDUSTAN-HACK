@@ -1,6 +1,6 @@
-# 🛡️ Hindustan Hack
+# 🛡️ RIMURU Hack
 
-**Hindustan Hack** is a powerful, lightweight CLI suite designed for Termux and Linux, featuring advanced phone number intelligence and OSINT lookup capabilities.
+**RIMURU Hack** is a powerful, lightweight CLI suite designed for Termux and Linux, featuring advanced phone number intelligence and OSINT lookup capabilities.
 
 ## ✨ Features
 - 🔍 **Number Lookup (OSINT):** Query mobile numbers via secure API endpoints with detailed record extraction.
@@ -20,7 +20,7 @@ termux-setup-storage
 pkg install python
 pkg install git
 git clone https://github.com/hindustanhack/HINDUSTAN-HACK
-cd HINDUSTAN-HACK
+cd RIMURU-HACK
 pip install -r requirements.txt
 python hindustanosint.py
 ```
